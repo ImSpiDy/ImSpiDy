@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Ayush 
-- 🌱 I’m currently learning Kermal developer
+- 🌱 I’m currently learning Kermal development
 - 📫 How to reach me https://t.me/SpiDyX027
