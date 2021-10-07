@@ -2,7 +2,7 @@
 
 • I’m currently learning [Kernel](https://github.com/ImSpiDy/Nexus-Xtreme-Kernel) Development
 
-• I’m currently Working on [ZTS](https://github.com/NotZeetaa/ZeetaaTweak) Module
+• I’m currently Working on [X-Charge Mode](https://github.com/ImSpiDy/X-Charge-Mode) Module
  
 • How to reach me *[Telegram](https://t.me/SpiDyX027)*
 <!-- GitHub Status-->
