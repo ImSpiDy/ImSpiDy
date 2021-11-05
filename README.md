@@ -1,8 +1,8 @@
 # 👋 Hi, I’m Ayush
 
-• I’m currently learning [Kernel](https://github.com/ImSpiDy/Nexus-Xtreme-Kernel) Development
+• I’m currently learning Kernel Development
 
-• I’m currently Working on [X-Charge Mode](https://github.com/ImSpiDy/X-Charge-Mode) Module
+• I’m currently Working on [Nexus Xtreme Kernel](https://github.com/ImSpiDy/Nexus-Xtreme-Kernel_Lavender) Module
  
 • How to reach me *[Telegram](https://t.me/SpiDyX027)*
 <!-- GitHub Status-->
