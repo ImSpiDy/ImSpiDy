@@ -2,7 +2,7 @@
 
 • I’m currently learning Kernel Development
 
-• I’m currently Working on [Nexus Xtreme Kernel](https://github.com/ImSpiDy/Nexus-Xtreme-Kernel_Lavender) Module
+• I’m currently Working on [Nexus Xtreme](https://github.com/ImSpiDy/Nexus-Xtreme-Kernel_Lavender) Kernel
  
 • How to reach me *[Telegram](https://t.me/SpiDyX027)*
 <!-- GitHub Status-->
