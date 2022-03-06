@@ -2,7 +2,9 @@
 
 • I’m currently learning Kernel Development
 
-• I’m currently Working on [Nexus Xtreme](https://github.com/ImSpiDy/Nexus-Xtreme-Kernel_Lavender) Kernel
+• I’m currently Working on [Nexus Tweak](https://github.com/projects-nexus/nexus_tweak)
+
+• And Kernel For [Lavender](https://github.com/projects-nexus/android_xtreme_kernel_lavender) and [Beryllium](https://github.com/projects-nexus/android_kernel_xiaomi-sdm845)
  
 • How to reach me *[Telegram](https://t.me/ImSp1Dy)*
 <!-- GitHub Status-->
