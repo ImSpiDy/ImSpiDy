@@ -1,7 +1,5 @@
 # 👋 Hi, I’m Ayush
 
-• I’m currently learning Kernel Development
-
 • I’m currently Working on [Nexus Tweak](https://github.com/projects-nexus/nexus_tweak)
 
 • And Kernel For [Lavender](https://github.com/projects-nexus/android_xtreme_kernel_lavender) and [Beryllium](https://github.com/projects-nexus/android_kernel_xiaomi-sdm845)
